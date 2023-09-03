@@ -8,6 +8,7 @@ import (
 )
 
 func main() {
+	// test
 	reader := bufio.NewReader(os.Stdin)
 
 	writer := bufio.NewWriter(os.Stdout)
